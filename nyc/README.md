@@ -51,7 +51,7 @@ Links:
 
 ## Other Things that are Good To Know
 
-Here's a few other things that are good to know about the {City} Reactor:
+Here's a few other things that are good to know about the NYC Reactor:
 
 * The Reactor space has a gender neutral bathroom, in addition to gendered bathrooms.
 * Coffee and water are readily available.
