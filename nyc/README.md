@@ -40,13 +40,14 @@ We sometimes get requests for photos of the available space. You can find photos
 
 ## Location
 
-```
+```text
 11 Times Sqaure,
 New York, NY 10036
 ```
 
 Links:
-- [Google Maps][google-maps]
+
+* [Google Maps][google-maps]
 
 ## Other Things that are Good To Know
 
@@ -55,7 +56,7 @@ Here's a few other things that are good to know about the {City} Reactor:
 * The Reactor space has a gender neutral bathroom, in addition to gendered bathrooms.
 * Coffee and water are readily available.
 
-<!--> Markdown links<-->
+<!-- Markdown Links-->
 [images]: /images
 [reactor-external]: https://developer.microsoft.com/en-us/reactor/Form
 [reactor-internal]: https://microsoft.sharepoint.com/teams/wwreactor/Pages/Calendar.aspx
