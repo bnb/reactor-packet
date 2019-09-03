@@ -56,9 +56,9 @@ Here's a few other things that are good to know about the {City} Reactor:
 * Coffee and water are readily available.
 
 <!--> Markdown links<-->
-[images]: [/images]
-[reactor-external]: [https://developer.microsoft.com/en-us/reactor/Form]
-[reactor-internal]: [https://microsoft.sharepoint.com/teams/wwreactor/Pages/Calendar.aspx]
-[human-email]: [mailto:tierney.cyren@microsoft.com]
-[google-maps]: [https://goo.gl/maps/MNCHqQ94vFToxEU18]
-[reactor-coc]: [https://developer.microsoft.com/en-us/reactor/CodeOfConduct]
+[images]: /images
+[reactor-external]: https://developer.microsoft.com/en-us/reactor/Form
+[reactor-internal]: https://microsoft.sharepoint.com/teams/wwreactor/Pages/Calendar.aspx
+[human-email]: mailto:tierney.cyren@microsoft.com
+[google-maps]: https://goo.gl/maps/MNCHqQ94vFToxEU18
+[reactor-coc]: https://developer.microsoft.com/en-us/reactor/CodeOfConduct
